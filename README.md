@@ -1,0 +1,1 @@
+Built all aspects of client-side Android application of essentially complete movie-ticket platform including registration, seat selection, and payment through Android Studio. Developed Java backend server with MySQL database. 
